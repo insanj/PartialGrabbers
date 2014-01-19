@@ -3,9 +3,12 @@ PartialGrabbers
 
 Better Better Grabbers. Pushes the grabbers so they're only partially visible, and much more attractive.
 
+![PartialGrabbers 1.0](https://f.cloud.github.com/assets/951011/1950770/fd234e82-8157-11e3-9e64-f2eec8d27e07.png)
+
+
 ---------------------------------------
 	Simplified BSD License
-	Copyright (c) 2013, Julian Weiss
+	Copyright (c) 2014, Julian Weiss
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without
